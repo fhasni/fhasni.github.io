@@ -1,20 +1,17 @@
 # Education Template
 - layout: left
-  name: The National Institute of Posts and Telecommunications (INPT)
+  name: The National Institute of Posts and Telecommunications (INPT)<p>(Rabat - Morocco)</p>
+  link: https://inpt.ac.ma
   dates: 2013 - 2016
-  qualification: Engineer's Degree (M.C.S) in Telecommunication and information technology
-  quote: >
-
+  qualification: Engineer's Degree (M.Sc.I.T.) in Telecommunication and information technology
   description: | # this will include new lines to allow paragraphs
     The INPT provides IT engineering training with high scientific and technical level with leadership, entrepreneurship, and innovation skills.
     
     During my time at this institution, I learned most of the key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at INPT and learned a lot about a healthy work-life balance.
 
 - layout: left
-  name: Higher School Preparatory Classes (CPGE)
+  name: Higher School Preparatory Classes (CPGE)<p>(Marrakesh - Morocco)</p>
+  link: http://www.cpge.ac.ma
   dates: 2011 - 2013
-  qualification: Engineer's Degree (M.C.S) in Telecommunication and information technology
-  quote: >
-
   description: | # this will include new lines to allow paragraphs
     They consist of two years of study which act as an intensive preparatory course (or cram school) with the main goal of training students for enrolment in one of the Higher Education Institution.
