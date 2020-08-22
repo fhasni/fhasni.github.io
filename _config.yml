@@ -73,7 +73,7 @@ experience_title: Experience #(Use this to override about experience section tit
 education_title: Education #(Use this to override about education section title)
 
 # More Section
-more_title: More about me #(Use this to override about more section title)
+more_title: More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   **Languages skills**
     - Arabic: Native
