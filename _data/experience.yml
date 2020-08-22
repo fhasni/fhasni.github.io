@@ -1,6 +1,6 @@
 # Experience template
 - layout: left
-  company: B3G Technologies
+  company: B3G Technologies<p>(Rabat - Morocco)</p>
   link: http://b3gtech.com
   job_title: Senior Software Engineer & Technical Lead
   dates: Aug 2019 – Present . 1 year
@@ -21,7 +21,7 @@
     Technologies: <mark>iOS</mark> <mark>Swift</mark> <mark>Objective-C</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>.Net Core</mark> <mark>Azure DevOps Server</mark> <mark>REST API</mark> <mark>Low Code</mark>
 
 - layout: left
-  company: Masarat App
+  company: Masarat App<p>(Rabat - Morocco)</p>
   link: https://www.masaratapp.com
   job_title: DevOps & SRE Lead
   dates: Aug 2017 – Jul 2019 . 2 years
@@ -39,7 +39,7 @@
     Technologies: <mark>Xcode</mark> <mark>iOS</mark> <mark>Objective-C</mark> <mark>PHP</mark> <mark>MySQL</mark> <mark>Nodejs</mark> <mark>MongoDB</mark> <mark>Aptible</mark> <mark>Amazon AWS</mark> <mark>Vega vulnerability scanner</mark> <mark>OWASP ZAP Security scanner</mark> <mark>MobSF (Mobile security framework)</mark> <mark>Bash</mark> <mark>Grafana</mark>
 
 - layout: left
-  company: Masarat App
+  company: Masarat App<p>(Rabat - Morocco)</p>
   link: https://www.masaratapp.com
   job_title: Full-Stack Software engineer
   dates: Feb 2016 – Jul 2019 . 3 years & 6 months
@@ -57,7 +57,7 @@
     Technologies: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Web Development</mark> <mark>PHP</mark> <mark>AngularJS</mark> <mark>NodeJS</mark> <mark>Docker</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>REST API</mark>
 
 - layout: left
-  company: Masarat App
+  company: Masarat App<p>(Rabat - Morocco)</p>
   link: https://www.masaratapp.com
   job_title: iOS Developer (internship)
   dates: Feb 2016 – Aug 2016 . 7 months
@@ -71,25 +71,25 @@
     Technologies: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Couchdb</mark> <mark>Couchbase lite</mark> <mark>Nginx</mark> <mark>NodeJS</mark> <mark>REST API</mark> <mark>Offline-First</mark>
 
 - layout: left
-  company: Moroccan economists forum
+  company: Moroccan economists forum<p>(Rabat - Morocco)</p>
   link:
   job_title: Java EE developer (internship)
   dates: Jul 2015 – Aug 2015 . 2 months
   quote: >
 
   description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
-    My role as a Java EE developer was to develop an electronic scientific magazine with a workflow engine (Submit article -> Review -> Publish) using Java EE technologies.
+    My role as a web developer was to develop an electronic scientific magazine with a workflow engine to submit, review and publish articles.
     
     Technologies: <mark>Vaadin J2EE framework</mark> <mark>MySQL</mark> <mark>Tomcat</mark> <mark>GIT</mark>
     
 - layout: left
-  company: Moroccan economists forum
+  company: Ministry of communication<p>(Rabat - Morocco)</p>
   link: http://www.mincom.gov.ma/
   job_title: Android developer (internship)
   dates: Jul 2014 – Aug 2014 . 2 months
   quote: >
 
   description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
-    As an android mobile developer, I worked on the development of an application to manage and track administrative packages.
+    As an android mobile developer, I worked on the development of an application to manage and track administrative packages. 
     
     Technologies: <mark>Android</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>REST API</mark>.
