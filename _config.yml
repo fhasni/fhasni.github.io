@@ -44,34 +44,49 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a software engineer with an Engineer Degree in the field of Telecommunication and Information Technology (M.Sc.I.T.) from The National Institute of Posts and Telecommunications of Rabat.
+  
+  I have four years of experience in IT, where I have hands-on mobile and web development to create high quality and scalable software applications with industry best practices.
+  
+  I am specialized in iOS development using both programming languages Swift and Objective-C, And I am used to DevOps culture, Cloud environments, and their technologies.
+  
+  I enjoy being challenged and working on projects that require working outside my comfort and knowledge set.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Core skills:
+    - Talented in leadership
+    - Skilled in Architecting, Developing, Testing and troubleshooting software
+    - Thorough understanding of data structures and algorithms
+    - Knowledgeable of back-end and front-end development best practices
+
+  Expertise:
+    <mark>Agile Methodologies</mark> <mark>Software Development</mark> <mark>Information Security</mark> <mark>Multimedia</mark> <mark>Swift</mark> <mark>Objective-C</mark> <mark>PHP</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>Go</mark> <mark>Java</mark> <mark>C# SQL</mark> <mark>Git</mark> <mark>Docker</mark> <mark>Jenkins</mark> <mark>Grafana</mark> <mark>Amazon Web Services (AWS)</mark> <mark>Linux</mark> <mark>Angular</mark> <mark>AngularJS</mark> <mark>Node.js</mark> <mark>Parse server</mark> <mark>Angular</mark> <mark>REST API</mark> <mark>MySQL</mark> <mark>SQL Server</mark> <mark>MongoDB</mark> <mark>CouchDB</mark> <mark>Microservices</mark> <mark>Continuous Integration and Continuous Delivery (CI/CD)</mark> <mark>Clean architecture</mark> <mark>MCV</mark> <mark>MVVM</mark> <mark>VIP</mark> <mark>VIPER</mark>
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: More about me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  **Languages skills**
+    - Arabic: Native
+    - English: Professional
+    - French: Professional
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  **Interests:**
+    - Science
+    - Gaming
+    - IT Geeks
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

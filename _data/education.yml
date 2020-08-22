@@ -1,9 +1,20 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: The National Institute of Posts and Telecommunications (INPT)
+  dates: 2013 - 2016
+  qualification: Engineer's Degree (M.C.S) in Telecommunication and information technology
   quote: >
-    Short institution or course description (optional)
+
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    The INPT provides IT engineering training with high scientific and technical level with leadership, entrepreneurship, and innovation skills.
+    
+    During my time at this institution, I learned most of the key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at INPT and learned a lot about a healthy work-life balance.
+
+- layout: left
+  name: Higher School Preparatory Classes (CPGE)
+  dates: 2011 - 2013
+  qualification: Engineer's Degree (M.C.S) in Telecommunication and information technology
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    They consist of two years of study which act as an intensive preparatory course (or cram school) with the main goal of training students for enrolment in one of the Higher Education Institution.

@@ -1,10 +1,95 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: B3G Technologies
+  link: http://b3gtech.com
+  job_title: Senior Software Engineer & Technical Lead
+  dates: Aug 2019 – Present . 1 year
   quote: >
-   Short description of the company (optional)
+    A company that provides integrated Digital Banking and Mobile Money OmniCanal solutions.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I am involved as a technical lead software engineer to develop frameworks and libraries for mobile and web applications to release mobile payment and mobile banking solutions.
+
+    Missions:
+      - Design and development of a framework for mobile Banking.
+      - Supervising, training and guiding, Inspiring and motivating team members
+      - Ensure ongoing code and architecture quality.
+      - Facilitation of daily stand-up, reviews, retrospectives, sprint, and release planning, demos, and other Scrum-related meetings and involved in helping the team abide by time boxes and other agreements.
+      - Interpretation of business requirements, refinement, feedback to the product team, and translation into technical designs.
+      - Close communication with the QA team, development team, product team, and management often located in other offices around the world.
+
+    
+    Technologies: <mark>iOS</mark> <mark>Swift</mark> <mark>Objective-C</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>.Net Core</mark> <mark>Azure DevOps Server</mark> <mark>REST API</mark> <mark>Low Code</mark>
+
+- layout: left
+  company: Masarat App
+  link: https://www.masaratapp.com
+  job_title: DevOps & SRE Lead
+  dates: Aug 2017 – Jul 2019 . 2 years
+  quote: >
+    A Company specialized in the design and development of mobile applications. 
+  description: | # this will include new lines to allow paragraphs
+    Missions:
+      - Installation, configuration, migration, and deployment of DevOps platform tools.
+      - Plugins development for the eKare platform.
+      - Management of Aptible and AWS cloud environments
+      - Ensure the security of the infrastructure is secured and HIPAA and compliant
+      - Ensure the compliance with HIPAA and GDPR
+      - Monitoring and maintenance
+      
+    Technologies: <mark>Xcode</mark> <mark>iOS</mark> <mark>Objective-C</mark> <mark>PHP</mark> <mark>MySQL</mark> <mark>Nodejs</mark> <mark>MongoDB</mark> <mark>Aptible</mark> <mark>Amazon AWS</mark> <mark>Vega vulnerability scanner</mark> <mark>OWASP ZAP Security scanner</mark> <mark>MobSF (Mobile security framework)</mark> <mark>Bash</mark> <mark>Grafana</mark>
+
+- layout: left
+  company: Masarat App
+  link: https://www.masaratapp.com
+  job_title: Full-Stack Software engineer
+  dates: Feb 2016 – Jul 2019 . 3 years & 6 months
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Missions:
+      - Web app design and development
+      - iOS app design and development
+      - REST API design and implementation
+      - App Store app submission
+      - Database administration
+      - Proofs-Of-Concept with emerging technologies
+    
+    Technologies: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Web Development</mark> <mark>PHP</mark> <mark>AngularJS</mark> <mark>NodeJS</mark> <mark>Docker</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>REST API</mark>
+
+- layout: left
+  company: Masarat App
+  link: https://www.masaratapp.com
+  job_title: iOS Developer (internship)
+  dates: Feb 2016 – Aug 2016 . 7 months
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
+    Missions:
+      - Refactoring of the offline module in [eKare inSight App](https://ekare.ai/advanced-wound-imaging/) to adopt an offline-first strategy.
+      - UX/UI and performance optimization of the iOS app [Dirisha kuwait Ads](https://apps.apple.com/us/app/id804123256)
+    
+    Technologies: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Couchdb</mark> <mark>Couchbase lite</mark> <mark>Nginx</mark> <mark>NodeJS</mark> <mark>REST API</mark> <mark>Offline-First</mark>
+
+- layout: left
+  company: Moroccan economists forum
+  link:
+  job_title: Java EE developer (internship)
+  dates: Jul 2015 – Aug 2015 . 2 months
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
+    My role as a Java EE developer was to develop an electronic scientific magazine with a workflow engine (Submit article -> Review -> Publish) using Java EE technologies.
+    
+    Technologies: <mark>Vaadin J2EE framework</mark> <mark>MySQL</mark> <mark>Tomcat</mark> <mark>GIT</mark>
+    
+- layout: left
+  company: Moroccan economists forum
+  link: http://www.mincom.gov.ma/
+  job_title: Android developer (internship)
+  dates: Jul 2014 – Aug 2014 . 2 months
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
+    As an android mobile developer, I worked on the development of an application to manage and track administrative packages.
+    
+    Technologies: <mark>Android</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>REST API</mark>.
