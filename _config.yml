@@ -46,7 +46,7 @@ google_analytics: "UA-177858292-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a software engineer with an Engineer Degree in the field of Telecommunication and Information Technology (M.Sc.I.T.) from The National Institute of Posts and Telecommunications of Rabat.
+  I am a software engineer with an Engineer Degree in Telecommunication and Information Technology (M.Sc.I.T.) from The National Institute of Posts and Telecommunications of Rabat.
   
   I have over 4 years of experience in IT, where I have hands-on mobile and web development to create high quality and scalable software applications with industry best practices.
   
