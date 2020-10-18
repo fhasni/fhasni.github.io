@@ -21,7 +21,7 @@ stackoverflow_username: "3754143"
 #flickr_username: jekyll
 #instagram_username: jekyll
 linkedin_username: fhasni
-#xing_username: jekyll
+xing_username: Hasni_Faical
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
@@ -29,9 +29,9 @@ linkedin_username: fhasni
 
 # Additional icon links
 additional_links:
-#- title: Link name
-#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
+# - title: Indeed
+#   icon: fa-indeed is not available on font awesome to check later
+#   url: https://my.indeed.com/p/faialh-can8hcq
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,7 @@ about_profile_image: assets/img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a software engineer with an Engineer Degree in Telecommunication and Information Technology (M.Sc.I.T.) from The National Institute of Posts and Telecommunications of Rabat.
   
-  I have over 4 years of experience in IT, where I have hands-on mobile and web development to create high quality and scalable software applications with industry best practices.
+  I have over 4 and a half years of professional experience in IT, where I have hands-on mobile and web development to create high quality and scalable software applications with industry best practices.
   
   I am specialized in iOS development using both programming languages Swift and Objective-C, And I am used to DevOps culture, Cloud environments, and their technologies.
   
