@@ -2,43 +2,43 @@
 - layout: left
   company: B3G Technologies<p>(Rabat - Morocco)</p>
   link: http://b3gtech.com
-  job_title: Senior Software Engineer & Technical Lead
-  dates: Aug 2019 – Present . 1 year
+  job_title: Senior iOS Engineer & Technical Lead
+  dates: Aug 2019 – Present
   quote: >
     A company that provides integrated Digital Banking and Mobile Money OmniCanal solutions.
   description: | # this will include new lines to allow paragraphs
-    I am involved as a technical lead software engineer to develop frameworks and libraries for mobile and web applications to release mobile payment and mobile banking solutions.
+    I am involved as a technical lead software engineer to create frameworks and libraries for mobile payment and mobile banking solutions.
 
     Missions:
-      - Design and development of a framework for mobile Banking.
+      - Design and development of an SDK for web and mobile (native ios/android) for banking software development.
+      - Design and development of a low-code/codeless platform for web and mobile (native ios/android) platforms.
       - Supervising, training and guiding, Inspiring and motivating team members
       - Ensure ongoing code and architecture quality.
       - Facilitation of daily stand-up, reviews, retrospectives, sprint, and release planning, demos, and other Scrum-related meetings and involved in helping the team abide by time boxes and other agreements.
       - Interpretation of business requirements, refinement, feedback to the product team, and translation into technical designs.
       - Close communication with the QA team, development team, product team, and management often located in other offices around the world.
 
-    Technologies: <mark>iOS</mark> <mark>Swift</mark> <mark>Objective-C</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>.Net Core</mark> <mark>Azure DevOps Server</mark> <mark>REST API</mark> <mark>Low Code</mark>
+    Technologies: <mark>iOS (Swift/Objective-C)</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>Android</mark> <mark>.Net Core</mark> <mark>Azure DevOps</mark> <mark>Git</mark> <mark>REST API</mark >
 
 - layout: left
-  company: Masarat App<p>(Rabat - Morocco)</p>
+  company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
   link: https://www.masaratapp.com
   job_title: DevOps & SRE Lead
   dates: Aug 2017 – Jul 2019 . 2 years
   quote: >
     A Company specialized in the design and development of mobile applications. 
   description: | # this will include new lines to allow paragraphs
-    Missions:
-      - Installation, configuration, migration, and deployment of DevOps platform tools.
-      - Plugins development for the eKare platform.
-      - Management of Aptible and AWS cloud environments
-      - Ensure the security of the infrastructure is secured and HIPAA and compliant
-      - Ensure the compliance with HIPAA and GDPR
-      - Monitoring and maintenance
+    My missions as DevOps and SRE Lead were to:
+      - Install, configure, migrate, and deploy DevOps platform tools.
+      - Manage Amazon AWS and Aptible cloud environments.
+      - Ensure security of the infrastructure.
+      - Ensure compliance with PCI, HIPAA, and GDPR.
+      - Monitor and maintain the solution.
       
     Technologies: <mark>Xcode</mark> <mark>iOS</mark> <mark>Objective-C</mark> <mark>PHP</mark> <mark>MySQL</mark> <mark>Nodejs</mark> <mark>MongoDB</mark> <mark>Aptible</mark> <mark>Amazon AWS</mark> <mark>Vega vulnerability scanner</mark> <mark>OWASP ZAP Security scanner</mark> <mark>MobSF (Mobile security framework)</mark> <mark>Bash</mark> <mark>Grafana</mark>
 
 - layout: left
-  company: Masarat App<p>(Rabat - Morocco)</p>
+  company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
   link: https://www.masaratapp.com
   job_title: Full-Stack Software engineer
   dates: Feb 2016 – Jul 2019 . 3 years & 6 months
@@ -54,7 +54,7 @@
     Technologies: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Web Development</mark> <mark>PHP</mark> <mark>AngularJS</mark> <mark>NodeJS</mark> <mark>Docker</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>REST API</mark>
 
 - layout: left
-  company: Masarat App<p>(Rabat - Morocco)</p>
+  company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
   link: https://www.masaratapp.com
   job_title: iOS Developer (internship)
   dates: Feb 2016 – Aug 2016 . 7 months
