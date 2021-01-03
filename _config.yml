@@ -6,8 +6,8 @@ repository: fhasni/cv # Git repository where your resume will be hosted, only re
 name: HASNI Faiçal
 title: Senior Software Engineer
 email: hasni.faissal@gmail.com
-phone: +212 696 180 072
-website: https://www.hasni.xyz
+phone: +212 6 96 18 00 72
+website: https://hasni.xyz
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -16,16 +16,16 @@ darkmode: false
 #twitter_username: FaicalHasni
 github_username:  fhasni
 stackoverflow_username: "3754143"
-#dribbble_username: jekyll
+#dribbble_username: fhasni
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
 linkedin_username: fhasni
 xing_username: Hasni_Faical
-#pinterest_username: jekyll
+#pinterest_username: faicalhasni
 #youtube_username: jekyll
 #googleplus_username: +jekyll
-#orcid_username: 0000-0000-0000-0000
+#orcid_username: 0000-0001-7087-8204
 
 # Additional icon links
 additional_links:
