@@ -1,9 +1,25 @@
 # Experience template
 - layout: left
+  company: Mavericks Consulting <p>(Singapore)</p>
+  link: https://mavericks-consulting.com/
+  job_title: Senior Software Consultant
+  dates: Oct 2021 – Present
+  # quote: >
+  #  Todo
+  #description: | # this will include new lines to allow paragraphs
+  #  Todo
+
+  # Missions:
+  #    - 
+  #    - 
+
+  #  Technologies: <mark>iOS (Swift/Objective-C)</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>Android</mark> <mark>.Net Core</mark> <mark>Azure DevOps</mark> <mark>Git</mark> <mark>REST API</mark >
+
+- layout: left
   company: B3G Technologies<p>(Rabat - Morocco)</p>
   link: http://b3gtech.com
   job_title: Senior iOS Engineer & Technical Lead
-  dates: Aug 2019 – Present
+  dates: Aug 2019 – Oct 2021
   quote: >
     A company that provides integrated Digital Banking and Mobile Money OmniCanal solutions.
   description: | # this will include new lines to allow paragraphs
