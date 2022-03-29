@@ -1,20 +1,15 @@
 # Experience template
 - layout: left
-  company: Mavericks Consulting <p>(Singapore)</p>
+  company: Mavericks Consulting Pte. Ltd.<p>(Singapore)</p>
   link: https://mavericks-consulting.com/
   job_title: Senior Software Consultant
   dates: Oct 2021 – Present
-  # quote: >
-  #  Todo
-  #description: | # this will include new lines to allow paragraphs
-  #  Todo
-
-  # Missions:
-  #    - 
-  #    - 
-
-  #  Technologies: <mark>iOS (Swift/Objective-C)</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>Android</mark> <mark>.Net Core</mark> <mark>Azure DevOps</mark> <mark>Git</mark> <mark>REST API</mark >
-
+  quote: >
+  A singaporean company that provides business consulting, information technology and outsourcing services.
+  description: | # this will include new lines to allow paragraphs
+    My regular responsibilities include actively participating in design discussions, implementation, and ensuring that we deliver our services on time and to a high standard.
+    
+    Tech Stack: <mark>NodeJS</mark> <mark>Typescript</mark> <mark>Go</mark> <mark>AWS</mark> <mark>ReactJS</mark> <mark>React Native</mark> <mark>Jest</mark> <mark>Cypress</mark> <mark>Terraform</mark> <mark>Docker</mark> <mark>CircleCI</mark> <mark>Fastlane</mark> <mark>PostgreSQL.
 - layout: left
   company: B3G Technologies<p>(Rabat - Morocco)</p>
   link: http://b3gtech.com
@@ -34,7 +29,7 @@
       - Interpretation of business requirements, refinement, feedback to the product team, and translation into technical designs.
       - Close communication with the QA team, development team, product team, and management often located in other offices around the world.
 
-    Technologies: <mark>iOS (Swift/Objective-C)</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>Android</mark> <mark>.Net Core</mark> <mark>Azure DevOps</mark> <mark>Git</mark> <mark>REST API</mark >
+    Tech Stack: <mark>iOS (Swift/Objective-C)</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>Android</mark> <mark>.Net Core</mark> <mark>Azure DevOps</mark> <mark>Git</mark> <mark>REST API</mark >
 
 - layout: left
   company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
@@ -51,7 +46,7 @@
       - Ensure compliance with PCI, HIPAA, and GDPR.
       - Monitor and maintain the solution.
       
-    Technologies: <mark>Xcode</mark> <mark>iOS</mark> <mark>Objective-C</mark> <mark>PHP</mark> <mark>MySQL</mark> <mark>Nodejs</mark> <mark>MongoDB</mark> <mark>Aptible</mark> <mark>Amazon AWS</mark> <mark>Vega vulnerability scanner</mark> <mark>OWASP ZAP Security scanner</mark> <mark>MobSF (Mobile security framework)</mark> <mark>Bash</mark> <mark>Grafana</mark>
+    Tech Stack: <mark>Xcode</mark> <mark>iOS</mark> <mark>Objective-C</mark> <mark>PHP</mark> <mark>MySQL</mark> <mark>Nodejs</mark> <mark>MongoDB</mark> <mark>Aptible</mark> <mark>Amazon AWS</mark> <mark>Vega vulnerability scanner</mark> <mark>OWASP ZAP Security scanner</mark> <mark>MobSF (Mobile security framework)</mark> <mark>Bash</mark> <mark>Grafana</mark>
 
 - layout: left
   company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
@@ -67,7 +62,7 @@
       - Database administration
       - Proofs-Of-Concept with emerging technologies
     
-    Technologies: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Web Development</mark> <mark>PHP</mark> <mark>AngularJS</mark> <mark>NodeJS</mark> <mark>Docker</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>REST API</mark>
+    Tech Stack: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Web Development</mark> <mark>PHP</mark> <mark>AngularJS</mark> <mark>NodeJS</mark> <mark>Docker</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>REST API</mark>
 
 - layout: left
   company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
@@ -78,7 +73,7 @@
     Missions:
       - Refactoring of the offline module in [eKare inSight App](https://ekare.ai/advanced-wound-imaging/) to adopt an offline-first strategy.
     
-    Technologies: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Couchdb</mark> <mark>Couchbase lite</mark> <mark>Nginx</mark> <mark>NodeJS</mark> <mark>REST API</mark> <mark>Offline-First</mark>
+    Tech Stack: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Couchdb</mark> <mark>Couchbase lite</mark> <mark>Nginx</mark> <mark>NodeJS</mark> <mark>REST API</mark> <mark>Offline-First</mark>
 
 - layout: left
   company: Moroccan economists forum<p>(Rabat - Morocco)</p>
@@ -88,7 +83,7 @@
   description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
     My role as a web developer was to develop an electronic scientific magazine with a workflow engine to submit, review and publish articles.
     
-    Technologies: <mark>Vaadin J2EE framework</mark> <mark>MySQL</mark> <mark>Tomcat</mark> <mark>GIT</mark>
+    Tech Stack: <mark>Vaadin J2EE framework</mark> <mark>MySQL</mark> <mark>Tomcat</mark> <mark>GIT</mark>
     
 - layout: left
   company: Ministry of communication<p>(Rabat - Morocco)</p>
@@ -98,4 +93,4 @@
   description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
     As an android mobile developer, I worked on the development of an application to manage and track administrative packages. 
     
-    Technologies: <mark>Android</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>REST API</mark>
+    Tech Stack: <mark>Android</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>REST API</mark>
