@@ -5,10 +5,10 @@
   job_title: Senior Software Consultant
   dates: Oct 2021 – Present
   quote: >
-  A singaporean company that provides business consulting, information technology and outsourcing services.
+    A singaporean company that provides business consulting, information technology and outsourcing services.
   description: | # this will include new lines to allow paragraphs
     My regular responsibilities include actively participating in design discussions, implementation, and ensuring that we deliver our services on time and to a high standard.
-    
+
     Tech Stack: <mark>NodeJS</mark> <mark>Typescript</mark> <mark>Go</mark> <mark>AWS</mark> <mark>ReactJS</mark> <mark>React Native</mark> <mark>Jest</mark> <mark>Cypress</mark> <mark>Terraform</mark> <mark>Docker</mark> <mark>CircleCI</mark> <mark>Fastlane</mark> <mark>PostgreSQL.
 - layout: left
   company: B3G Technologies<p>(Rabat - Morocco)</p>
@@ -37,7 +37,7 @@
   job_title: DevOps & SRE Lead
   dates: Aug 2017 – Jul 2019 . 2 years
   quote: >
-    A Company specialized in the design and development of mobile applications. 
+    A Company specialized in the design and development of mobile applications.
   description: | # this will include new lines to allow paragraphs
     My missions as DevOps and SRE Lead were to:
       - Install, configure, migrate, and deploy DevOps platform tools.
@@ -61,7 +61,7 @@
       - App Store app submission
       - Database administration
       - Proofs-Of-Concept with emerging technologies
-    
+
     Tech Stack: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Web Development</mark> <mark>PHP</mark> <mark>AngularJS</mark> <mark>NodeJS</mark> <mark>Docker</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>REST API</mark>
 
 - layout: left
@@ -69,10 +69,11 @@
   link: https://www.masaratapp.com
   job_title: iOS Developer (internship)
   dates: Feb 2016 – Aug 2016 . 7 months
-  description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
+  description:
+    | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
     Missions:
       - Refactoring of the offline module in [eKare inSight App](https://ekare.ai/advanced-wound-imaging/) to adopt an offline-first strategy.
-    
+
     Tech Stack: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Couchdb</mark> <mark>Couchbase lite</mark> <mark>Nginx</mark> <mark>NodeJS</mark> <mark>REST API</mark> <mark>Offline-First</mark>
 
 - layout: left
@@ -80,17 +81,19 @@
   link:
   job_title: Java EE developer (internship)
   dates: Jul 2015 – Aug 2015 . 2 months
-  description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
+  description:
+    | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
     My role as a web developer was to develop an electronic scientific magazine with a workflow engine to submit, review and publish articles.
-    
+
     Tech Stack: <mark>Vaadin J2EE framework</mark> <mark>MySQL</mark> <mark>Tomcat</mark> <mark>GIT</mark>
-    
+
 - layout: left
   company: Ministry of communication<p>(Rabat - Morocco)</p>
   link: http://www.mincom.gov.ma/
   job_title: Android developer (internship)
   dates: Jul 2014 – Aug 2014 . 2 months
-  description: | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
+  description:
+    | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
     As an android mobile developer, I worked on the development of an application to manage and track administrative packages. 
-    
+
     Tech Stack: <mark>Android</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>REST API</mark>
