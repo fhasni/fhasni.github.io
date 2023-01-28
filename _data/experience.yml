@@ -9,7 +9,7 @@
   description: | # this will include new lines to allow paragraphs
     As a Senior Software Consultant at Mavericks, I am responsible for helping our clients design software solutions, implement them, and optimize the development process. I am currently working with GovTech, providing technical expertise in the design and development of software solutions that meet the business needs of the agency. My role involves working closely with GovTech team to understand their objectives and requirements, and then using my expertise in software development to design and implement solutions that meet those needs. I also work with our development team to ensure that the solutions are implemented efficiently and effectively, and that they meet the highest quality standards. I am committed to delivering exceptional results for our clients, and am always looking for ways to improve our development process.
 
-    Tech Stack: <mark>NodeJS</mark> <mark>Typescript</mark> <mark>Go</mark> <mark>AWS</mark> <mark>ReactJS</mark> <mark>React Native</mark> <mark>Jest</mark> <mark>Cypress</mark> <mark>Terraform</mark> <mark>Docker</mark> <mark>CircleCI</mark> <mark>Fastlane</mark> <mark>PostgreSQL</mark>
+    Tech Stack: <mark>NodeJS</mark> <mark>ReactJS</mark> <mark>Typescript</mark> <mark>AWS</mark> <mark>Jest</mark> <mark>Cypress</mark> <mark>Terraform</mark> <mark>Docker</mark> <mark>Gitlab</mark> <mark>Gitlab pipeline</mark> <mark>PostgreSQL</mark>
 - layout: left
   company: B3G Technologies<p>(Rabat - Morocco)</p>
   link: http://b3gtech.com
