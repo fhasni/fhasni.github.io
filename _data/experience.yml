@@ -1,99 +1,97 @@
 # Experience template
 - layout: left
-  company: Mavericks Consulting Pte. Ltd.<p>(Singapore)</p>
+  company: Mavericks Consulting Pte. Ltd. (Singapore)
   link: https://mavericks-consulting.com/
-  job_title: Senior Software Consultant
+  job_title: Lead Consultant
   dates: Oct 2021 – Present
   quote: >
-    A singaporean company that provides business consulting, information technology and outsourcing services.
-  description: | # this will include new lines to allow paragraphs
-    As a Senior Software Consultant at Mavericks, I am responsible for helping our clients design software solutions, implement them, and optimize the development process. I am currently working with GovTech, providing technical expertise in the design and development of software solutions that meet the business needs of the agency. My role involves working closely with GovTech team to understand their objectives and requirements, and then using my expertise in software development to design and implement solutions that meet those needs. I also work with our development team to ensure that the solutions are implemented efficiently and effectively, and that they meet the highest quality standards. I am committed to delivering exceptional results for our clients, and am always looking for ways to improve our development process.
+    A Singapore-based company providing business consulting, information technology, and outsourcing services.
+  description: |
+    As a Senior Software Consultant at Mavericks, I assist clients in designing, implementing, and optimizing software solutions. Currently, I work with GovTech, offering technical expertise in software architecture and development to align with the agency's business needs. My responsibilities include collaborating with the GovTech team to understand their objectives, designing tailored software solutions, and ensuring efficient implementation. Additionally, I work with the development team to uphold high-quality standards and streamline development processes.
 
-    Tech Stack: <mark>NodeJS</mark> <mark>ReactJS</mark> <mark>Typescript</mark> <mark>AWS</mark> <mark>Jest</mark> <mark>Cypress</mark> <mark>Terraform</mark> <mark>Docker</mark> <mark>Gitlab</mark> <mark>Gitlab pipeline</mark> <mark>PostgreSQL</mark>
+    **Tech Stack:** Node.js, React.js, TypeScript, AWS, Jest, Cypress, Terraform, Docker, GitLab, GitLab CI/CD, PostgreSQL
+
 - layout: left
-  company: B3G Technologies<p>(Rabat - Morocco)</p>
+  company: B3G Technologies (Rabat, Morocco)
   link: http://b3gtech.com
   job_title: Senior iOS Engineer & Technical Lead
   dates: Aug 2019 – Oct 2021
   quote: >
-    A company that provides integrated Digital Banking and Mobile Money OmniCanal solutions.
-  description: | # this will include new lines to allow paragraphs
-    I am involved as a technical lead software engineer to create frameworks and libraries for mobile payment and mobile banking solutions.
+    A company specializing in integrated digital banking and mobile money omnichannel solutions.
+  description: |
+    As a Technical Lead, I was responsible for developing frameworks and libraries for mobile payment and banking solutions.
 
-    Missions:
-      - Design and development of an SDK for web and mobile (native ios/android) for banking software development.
-      - Design and development of a low-code/codeless platform for web and mobile (native ios/android) platforms.
-      - Supervising, training and guiding, Inspiring and motivating team members
-      - Ensure ongoing code and architecture quality.
-      - Facilitation of daily stand-up, reviews, retrospectives, sprint, and release planning, demos, and other Scrum-related meetings and involved in helping the team abide by time boxes and other agreements.
-      - Interpretation of business requirements, refinement, feedback to the product team, and translation into technical designs.
-      - Close communication with the QA team, development team, product team, and management often located in other offices around the world.
+    **Key Responsibilities:**
+      - Designed and developed SDKs for web and mobile (native iOS/Android) banking applications.
+      - Built a low-code/no-code platform for web and mobile development.
+      - Led and mentored the development team, fostering skill growth and technical excellence.
+      - Ensured ongoing code quality and robust architectural decisions.
+      - Facilitated Agile ceremonies such as stand-ups, retrospectives, sprint planning, and demos.
+      - Interpreted business requirements and translated them into technical solutions.
+      - Coordinated with QA, product, and development teams across global offices.
 
-    Tech Stack: <mark>iOS (Swift/Objective-C)</mark> <mark>Codename One</mark> <mark>Angular</mark> <mark>Android</mark> <mark>.Net Core</mark> <mark>Azure DevOps</mark> <mark>Git</mark> <mark>REST API</mark >
+    **Tech Stack:** iOS (Swift/Objective-C), Codename One, Angular, Android, .NET Core, Azure DevOps, Git, REST API
 
 - layout: left
-  company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
+  company: Masarat App (eKare inSight project) (Rabat, Morocco)
   link: https://www.masaratapp.com
   job_title: DevOps & SRE Lead
-  dates: Aug 2017 – Jul 2019 . 2 years
+  dates: Aug 2017 – Jul 2019 (2 years)
   quote: >
-    A Company specialized in the design and development of mobile applications.
-  description: | # this will include new lines to allow paragraphs
-    My missions as DevOps and SRE Lead were to:
-      - Install, configure, migrate, and deploy DevOps platform tools.
-      - Manage Amazon AWS and Aptible cloud environments.
-      - Ensure security of the infrastructure.
-      - Ensure compliance with PCI, HIPAA, and GDPR.
-      - Monitor and maintain the solution.
-      
-    Tech Stack: <mark>Xcode</mark> <mark>iOS</mark> <mark>Objective-C</mark> <mark>PHP</mark> <mark>MySQL</mark> <mark>Nodejs</mark> <mark>MongoDB</mark> <mark>Aptible</mark> <mark>Amazon AWS</mark> <mark>Vega vulnerability scanner</mark> <mark>OWASP ZAP Security scanner</mark> <mark>MobSF (Mobile security framework)</mark> <mark>Bash</mark> <mark>Grafana</mark>
+    A company specializing in mobile application design and development.
+  description: |
+    As a DevOps & SRE Lead, I managed infrastructure, security, and compliance aspects of the platform.
+
+    **Key Responsibilities:**
+      - Installed, configured, and managed DevOps tools.
+      - Administered Amazon AWS and Aptible cloud environments.
+      - Ensured infrastructure security and compliance with PCI, HIPAA, and GDPR.
+      - Monitored and maintained system reliability and performance.
+
+    **Tech Stack:** Xcode, iOS, Objective-C, PHP, MySQL, Node.js, MongoDB, Aptible, AWS, Vega Vulnerability Scanner, OWASP ZAP, MobSF, Bash, Grafana
 
 - layout: left
-  company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
+  company: Masarat App (eKare inSight project) (Rabat, Morocco)
   link: https://www.masaratapp.com
-  job_title: Full-Stack Software engineer
-  dates: Feb 2016 – Jul 2019 . 3 years & 6 months
-  description: | # this will include new lines to allow paragraphs
-    Missions:
-      - Web app design and development
-      - iOS app design and development
-      - REST API design and implementation
-      - App Store app submission
-      - Database administration
-      - Proofs-Of-Concept with emerging technologies
+  job_title: Full-Stack Software Engineer
+  dates: Feb 2016 – Jul 2019 (3 years & 6 months)
+  description: |
+    **Key Responsibilities:**
+      - Designed and developed web applications.
+      - Developed iOS applications and REST APIs.
+      - Managed App Store submissions and database administration.
+      - Built proof-of-concepts for emerging technologies.
 
-    Tech Stack: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Web Development</mark> <mark>PHP</mark> <mark>AngularJS</mark> <mark>NodeJS</mark> <mark>Docker</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>REST API</mark>
+    **Tech Stack:** iOS (Xcode, Objective-C), Web Development (PHP, AngularJS, Node.js), Docker, MySQL, MongoDB, REST API
 
 - layout: left
-  company: Masarat App (eKare inSight project)<p>(Rabat - Morocco)</p>
+  company: Masarat App (eKare inSight project) (Rabat, Morocco)
   link: https://www.masaratapp.com
-  job_title: iOS Developer (internship)
-  dates: Feb 2016 – Aug 2016 . 7 months
-  description:
-    | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
-    Missions:
-      - Refactoring of the offline module in [eKare inSight App](https://ekare.ai/advanced-wound-imaging/) to adopt an offline-first strategy.
+  job_title: iOS Developer (Internship)
+  dates: Feb 2016 – Aug 2016 (7 months)
+  description: |
+    **Project:** eKare inSight - A healthcare mobile solution for wound management using computer vision and mobile technology.
 
-    Tech Stack: <mark>iOS development</mark> <mark>Xcode</mark> <mark>Objective-C</mark> <mark>Couchdb</mark> <mark>Couchbase lite</mark> <mark>Nginx</mark> <mark>NodeJS</mark> <mark>REST API</mark> <mark>Offline-First</mark>
+    **Key Responsibilities:**
+      - Refactored the offline module to implement an offline-first strategy.
 
-- layout: left
-  company: Moroccan economists forum<p>(Rabat - Morocco)</p>
-  link:
-  job_title: Java EE developer (internship)
-  dates: Jul 2015 – Aug 2015 . 2 months
-  description:
-    | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
-    My role as a web developer was to develop an electronic scientific magazine with a workflow engine to submit, review and publish articles.
-
-    Tech Stack: <mark>Vaadin J2EE framework</mark> <mark>MySQL</mark> <mark>Tomcat</mark> <mark>GIT</mark>
+    **Tech Stack:** iOS (Xcode, Objective-C), CouchDB, Couchbase Lite, Nginx, Node.js, REST API, Offline-First Architecture
 
 - layout: left
-  company: Ministry of communication<p>(Rabat - Morocco)</p>
+  company: Moroccan Economists Forum (Rabat, Morocco)
+  job_title: Java EE Developer (Internship)
+  dates: Jul 2015 – Aug 2015 (2 months)
+  description: |
+    Developed an electronic scientific magazine with a workflow engine for submitting, reviewing, and publishing articles.
+
+    **Tech Stack:** Vaadin (Java EE), MySQL, Tomcat, Git
+
+- layout: left
+  company: Ministry of Communication (Rabat, Morocco)
   link: http://www.mincom.gov.ma/
-  job_title: Android developer (internship)
-  dates: Jul 2014 – Aug 2014 . 2 months
-  description:
-    | # this will include new lines to allow paragraphs  # - eKare: A health care mobile solution dedicated for wound management using computer-vision and mobile technology
-    As an android mobile developer, I worked on the development of an application to manage and track administrative packages. 
+  job_title: Android Developer (Internship)
+  dates: Jul 2014 – Aug 2014 (2 months)
+  description: |
+    Developed an Android application for managing and tracking administrative packages.
 
-    Tech Stack: <mark>Android</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>REST API</mark>
+    **Tech Stack:** Android, PHP, MySQL, REST API
