@@ -1,97 +1,81 @@
-# Experience template
 - layout: left
   company: Mavericks Consulting Pte. Ltd. (Singapore)
   link: https://mavericks-consulting.com/
   job_title: Lead Consultant
   dates: Oct 2021 – Present
   quote: >
-    A Singapore-based company providing business consulting, information technology, and outsourcing services.
+    A Singaporean company providing business consulting, information technology, and outsourcing services.
   description: |
-    As a Senior Software Consultant at Mavericks, I assist clients in designing, implementing, and optimizing software solutions. Currently, I work with GovTech, offering technical expertise in software architecture and development to align with the agency's business needs. My responsibilities include collaborating with the GovTech team to understand their objectives, designing tailored software solutions, and ensuring efficient implementation. Additionally, I work with the development team to uphold high-quality standards and streamline development processes.
-
-    **Tech Stack:** Node.js, React.js, TypeScript, AWS, Jest, Cypress, Terraform, Docker, GitLab, GitLab CI/CD, PostgreSQL
+    As a Lead Consultant at Mavericks, I design and implement scalable software solutions, optimize development processes, and mentor developers.
+    
+    **Project: GovTech (Corenet X)** (Jun 2022 - Present)
+    - Designed and implemented scalable, large-scale software solutions for Singapore's building and construction applications, ensuring compliance with BCA regulations.
+    - Developed backend services using Node.js and Express.js, focusing on performance, scalability, and security best practices.
+    - Built front-end applications using React and TypeScript, ensuring high UX standards.
+    - Managed cloud infrastructure using Terraform, improving system reliability.
+    - Maintained CI/CD pipelines with GitLab, automating deployments and streamlining the feedback loop.
+    - Developed and maintained automated test suites (unit, API, and e2e) using Jest and Cypress.
+    - Led Agile development processes, participating in sprint planning and cross-team collaboration.
+    - Provided technical guidance through code reviews and mentoring sessions.
+    
+    **Project: Maintain Simple** (Oct 2021 - May 2022)
+    - Developed and maintained full-stack applications (backend, web frontend, and mobile frontend) using AWS, Node.js, Express.js, React Native, and TypeScript.
+    - Automated mobile app deployment pipelines for App Store and Google Play using Fastlane.
+    - Led Open API documentation automation, improving backend-frontend integration and developer experience.
+    
+    **Tech Stack:** Node.js, React, TypeScript, AWS, Jest, Cypress, Terraform, Docker, GitLab CI/CD, PostgreSQL
 
 - layout: left
-  company: B3G Technologies (Rabat, Morocco)
+  company: B3G Technologies (Morocco)
   link: http://b3gtech.com
   job_title: Senior iOS Engineer & Technical Lead
   dates: Aug 2019 – Oct 2021
   quote: >
-    A company specializing in integrated digital banking and mobile money omnichannel solutions.
+    A company providing integrated Digital Banking and Mobile Money Omni-Channel solutions.
   description: |
-    As a Technical Lead, I was responsible for developing frameworks and libraries for mobile payment and banking solutions.
-
-    **Key Responsibilities:**
-      - Designed and developed SDKs for web and mobile (native iOS/Android) banking applications.
-      - Built a low-code/no-code platform for web and mobile development.
-      - Led and mentored the development team, fostering skill growth and technical excellence.
-      - Ensured ongoing code quality and robust architectural decisions.
-      - Facilitated Agile ceremonies such as stand-ups, retrospectives, sprint planning, and demos.
-      - Interpreted business requirements and translated them into technical solutions.
-      - Coordinated with QA, product, and development teams across global offices.
-
-    **Tech Stack:** iOS (Swift/Objective-C), Codename One, Angular, Android, .NET Core, Azure DevOps, Git, REST API
+    - Designed and developed SDKs for web and mobile banking applications.
+    - Led the development of a **low-code/no-code** platform for web and mobile (iOS/Android) applications, enabling rapid business adaptation.
+    - Conducted technical mentorship, code reviews, and best practice sessions.
+    - Facilitated Agile Scrum meetings and helped teams improve efficiency.
+    - Translated business requirements into technical designs, working closely with product teams.
+    
+    **Tech Stack:** Swift, Objective-C, Angular, .NET Core, Azure DevOps, REST API
 
 - layout: left
-  company: Masarat App (eKare inSight project) (Rabat, Morocco)
+  company: Masarat App (eKare inSight project) (Morocco)
   link: https://www.masaratapp.com
   job_title: DevOps & SRE Lead
-  dates: Aug 2017 – Jul 2019 (2 years)
+  dates: Aug 2017 – Jul 2019
   quote: >
-    A company specializing in mobile application design and development.
+    A company specializing in mobile application development.
   description: |
-    As a DevOps & SRE Lead, I managed infrastructure, security, and compliance aspects of the platform.
-
-    **Key Responsibilities:**
-      - Installed, configured, and managed DevOps tools.
-      - Administered Amazon AWS and Aptible cloud environments.
-      - Ensured infrastructure security and compliance with PCI, HIPAA, and GDPR.
-      - Monitored and maintained system reliability and performance.
-
-    **Tech Stack:** Xcode, iOS, Objective-C, PHP, MySQL, Node.js, MongoDB, Aptible, AWS, Vega Vulnerability Scanner, OWASP ZAP, MobSF, Bash, Grafana
+    - Designed and maintained CI/CD pipelines for efficient software releases.
+    - Automated cloud infrastructure provisioning using AWS and Aptible.
+    - Ensured compliance with PCI, HIPAA, and GDPR through security audits.
+    - Developed monitoring systems to detect and respond to anomalies.
+    
+    **Tech Stack:** AWS, Aptible, Terraform, Docker, CI/CD, Security Audits
 
 - layout: left
-  company: Masarat App (eKare inSight project) (Rabat, Morocco)
+  company: Masarat App (eKare inSight project) (Morocco)
   link: https://www.masaratapp.com
   job_title: Full-Stack Software Engineer
-  dates: Feb 2016 – Jul 2019 (3 years & 6 months)
+  dates: Feb 2016 – Jul 2019
   description: |
-    **Key Responsibilities:**
-      - Designed and developed web applications.
-      - Developed iOS applications and REST APIs.
-      - Managed App Store submissions and database administration.
-      - Built proof-of-concepts for emerging technologies.
-
-    **Tech Stack:** iOS (Xcode, Objective-C), Web Development (PHP, AngularJS, Node.js), Docker, MySQL, MongoDB, REST API
+    - Developed a **wound assessment platform** integrating **computer vision** for medical imaging.
+    - Designed RESTful APIs and optimized database performance using MySQL and MongoDB.
+    - Integrated telehealth features for remote patient monitoring.
+    - Refactored and optimized system performance, improving efficiency.
+    
+    **Tech Stack:** iOS, Xcode, Objective-C, AngularJS, Node.js, Docker, MySQL, MongoDB, REST API
 
 - layout: left
-  company: Masarat App (eKare inSight project) (Rabat, Morocco)
-  link: https://www.masaratapp.com
-  job_title: iOS Developer (Internship)
-  dates: Feb 2016 – Aug 2016 (7 months)
-  description: |
-    **Project:** eKare inSight - A healthcare mobile solution for wound management using computer vision and mobile technology.
-
-    **Key Responsibilities:**
-      - Refactored the offline module to implement an offline-first strategy.
-
-    **Tech Stack:** iOS (Xcode, Objective-C), CouchDB, Couchbase Lite, Nginx, Node.js, REST API, Offline-First Architecture
-
-- layout: left
-  company: Moroccan Economists Forum (Rabat, Morocco)
-  job_title: Java EE Developer (Internship)
-  dates: Jul 2015 – Aug 2015 (2 months)
-  description: |
-    Developed an electronic scientific magazine with a workflow engine for submitting, reviewing, and publishing articles.
-
-    **Tech Stack:** Vaadin (Java EE), MySQL, Tomcat, Git
-
-- layout: left
-  company: Ministry of Communication (Rabat, Morocco)
+  company: Ministry of Communication (Morocco)
   link: http://www.mincom.gov.ma/
   job_title: Android Developer (Internship)
-  dates: Jul 2014 – Aug 2014 (2 months)
+  dates: Jul 2014 – Aug 2014
   description: |
-    Developed an Android application for managing and tracking administrative packages.
-
+    - Developed an **administrative package tracking system** using **Android and PHP**.
+    - Implemented RESTful APIs and optimized database queries.
+    
     **Tech Stack:** Android, PHP, MySQL, REST API
