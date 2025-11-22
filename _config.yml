@@ -14,13 +14,13 @@ darkmode: false
 # Social links
 #twitter_username: FaicalHasni
 github_username: fhasni
-stackoverflow_username: "3754143"
+#stackoverflow_username: "3754143"
 #dribbble_username: fhasni
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
 linkedin_username: fhasni
-xing_username: Hasni_Faical
+#xing_username: Hasni_Faical
 #pinterest_username: faicalhasni
 #youtube_username: jekyll
 #googleplus_username: +jekyll
@@ -39,7 +39,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-google_analytics: "UA-177858292-1"
+# google_analytics: "UA-000000000-0"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
