@@ -4,9 +4,8 @@ repository: fhasni/cv # Git repository where your resume will be hosted, only re
 
 # Personal info
 name: HASNI Faiçal
-title: Senior Software Engineer
-email: hasni.faissal@gmail.com
-phone: +212 6 96 18 00 72
+title: Principal Consultant | Software Engineer
+email: contact@hasni.xyz
 website: https://hasni.xyz
 
 # Dark Mode (true/false/never)
